@@ -1,0 +1,680 @@
+{
+    "original_request_url": "130078019548594",
+    "post_url": "https://facebook.com/story.php?story_fbid=130078019548594&id=100076391892247",
+    "post_id": 130078019548594,
+    "text": "Fuerza Tacna comunica esta lamentable noticia.\n\u00a1Fuerza Juanita!",
+    "post_text": "Fuerza Tacna comunica esta lamentable noticia.\n\u00a1Fuerza Juanita!",
+    "shared_text": "",
+    "original_text": null,
+    "time": "2022-03-08 16:47:48",
+    "timestamp": 1646776068,
+    "image": null,
+    "image_lowquality": "https://scontent.faqp2-2.fna.fbcdn.net/v/t39.30808-6/274955133_130078002881929_8398434879470404415_n.jpg?stp=cp0_dst-jpg_e15_q65_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_eui2=AeH5KbisONAiwpcPd_Ir6erGvkx2rLtwqKy-THasu3CorC7rb6_RUT9QxBaFWhVOHcdbiglja-BIl2wBvKhHMDju&_nc_ohc=HMXgUMapLRMAX9ACi7G&_nc_ht=scontent.faqp2-2.fna&oh=00_AT-XCfWRdeIT_4gyIh38B1m71WwuR0ly44dOz4dXKqCTMg&oe=62C7B2E9",
+    "images": null,
+    "images_description": null,
+    "images_lowquality": [
+        "https://scontent.faqp2-2.fna.fbcdn.net/v/t39.30808-6/274955133_130078002881929_8398434879470404415_n.jpg?stp=cp0_dst-jpg_e15_q65_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_eui2=AeH5KbisONAiwpcPd_Ir6erGvkx2rLtwqKy-THasu3CorC7rb6_RUT9QxBaFWhVOHcdbiglja-BIl2wBvKhHMDju&_nc_ohc=HMXgUMapLRMAX9ACi7G&_nc_ht=scontent.faqp2-2.fna&oh=00_AT-XCfWRdeIT_4gyIh38B1m71WwuR0ly44dOz4dXKqCTMg&oe=62C7B2E9"
+    ],
+    "images_lowquality_description": [
+        "May be an image of text that says 'El Movimiento Independiente Regional Fuerza Tacna, tiene el hondo pesar de participar del sensible fallecimiento de quien en vida fue: Sr. Wilfredo Rojas jas M\u00e9ndez Q.E.P.D y Q.D.D.G Esposo de nuestra gran amiga y simpatizante, Juana Chambilla Layme. Expresamos nuestras condolencias a sus familiares, rogando al Se\u00f1or por su eterno descanso. Tacna, 07 de Marzo de 2022'"
+    ],
+    "video": null,
+    "video_duration_seconds": null,
+    "video_height": null,
+    "video_id": null,
+    "video_quality": null,
+    "video_size_MB": null,
+    "video_thumbnail": null,
+    "video_watches": null,
+    "video_width": null,
+    "likes": 65,
+    "comments": 11,
+    "shares": 1,
+    "link": null,
+    "links": [],
+    "user_id": "100076391892247",
+    "username": "Fuerza Tacna",
+    "user_url": "https://facebook.com/MovimientoIndependienteRegionalFuerzaTacna?refid=52&__tn__=C-R",
+    "is_live": false,
+    "factcheck": null,
+    "shared_post_id": null,
+    "shared_time": null,
+    "shared_user_id": null,
+    "shared_username": null,
+    "shared_post_url": null,
+    "available": true,
+    "comments_full": [
+        {
+            "comment_id": "130167886206274",
+            "comment_url": "https://facebook.com/130167886206274",
+            "commenter_id": "100000623140045",
+            "commenter_url": "https://facebook.com/daisy.huamollemenendez?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Daisy Huamolle Menendez",
+            "commenter_meta": null,
+            "comment_text": "TANTO LO SIENTO MIS SENTIDAS CONDOLENCIAS PARA SU ESPOSA JUANITA, E HIJOS Y DEMAS FAMILIA. DIOS LO TENGA EN SU GLORIA QEPD Y QDDG.\ud83d\ude4f\ud83d\ude4f\ud83d\ude2a",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130269279529468",
+            "comment_url": "https://facebook.com/130269279529468",
+            "commenter_id": "100000604886027",
+            "commenter_url": "https://facebook.com/ricardo.riveracaceda?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Ricardo Rivera C\u00e1ceda",
+            "commenter_meta": null,
+            "comment_text": "MISS SENTIDAS CONDOLENCIAS A LA FAMILIA, POR TAN IRREPARABLE PERDIDA,",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130321346190928",
+            "comment_url": "https://facebook.com/130321346190928",
+            "commenter_id": "100001014824942",
+            "commenter_url": "https://facebook.com/anamaria.vasquezquille?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Ana Maria Vasquez Quille",
+            "commenter_meta": null,
+            "comment_text": "Mis sentidas condolencias a Juanita y familia la acompa\u00f1amos en su dolor",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130149382874791",
+            "comment_url": "https://facebook.com/130149382874791",
+            "commenter_id": "100071321932256",
+            "commenter_url": "https://facebook.com/profile.php?id=100071321932256&fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Julissa Margot Jessica Briones Segovia",
+            "commenter_meta": null,
+            "comment_text": "Mis sentidas condolencias a la compa\u00f1era y familia Dios tenga en su gloria a su esposo.",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130104956212567",
+            "comment_url": "https://facebook.com/130104956212567",
+            "commenter_id": "100007049462908",
+            "commenter_url": "https://facebook.com/juanita.dieguez.3?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Juanita Dieguez",
+            "commenter_meta": null,
+            "comment_text": "Mi m\u00e1s sentido p\u00e9same a la familia .\nDios lo tenga en su santa gloria.\nAm\u00e9n.",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130139516209111",
+            "comment_url": "https://facebook.com/130139516209111",
+            "commenter_id": "100018678283442",
+            "commenter_url": "https://facebook.com/eufemia.chambilla?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Eufemia Chambilla Layme",
+            "commenter_meta": null,
+            "comment_text": "Que Dios lo tenga en su gloria QPD Y DDG",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130228862866843",
+            "comment_url": "https://facebook.com/130228862866843",
+            "commenter_id": "100012941559663",
+            "commenter_url": "https://facebook.com/silvia.gladys.5?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Silvia Gladys",
+            "commenter_meta": null,
+            "comment_text": "Dios le de fortaleza a la familia",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130084949547901",
+            "comment_url": "https://facebook.com/130084949547901",
+            "commenter_id": "100006177075308",
+            "commenter_url": "https://facebook.com/cupido.conmigo?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Yecka Incacutipa",
+            "commenter_meta": null,
+            "comment_text": "Que Dios lo tenga en su eterna gloria \ud83d\ude14 mi m\u00e1s sentido p\u00e9same sra Juanita \ud83d\ude4f",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130122486210814",
+            "comment_url": "https://facebook.com/130122486210814",
+            "commenter_id": "100073988985002",
+            "commenter_url": "https://facebook.com/profile.php?id=100073988985002&fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Belinda Guisa",
+            "commenter_meta": null,
+            "comment_text": "Sentido p\u00e9same a la Sra Juanita y familia .",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130145036208559",
+            "comment_url": "https://facebook.com/130145036208559",
+            "commenter_id": "100000252848854",
+            "commenter_url": "https://facebook.com/ricardowilliam.navarroayala?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Ricardo William Navarro Ayala",
+            "commenter_meta": null,
+            "comment_text": "Mi sentido p\u00e9same a la familia",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        },
+        {
+            "comment_id": "130142022875527",
+            "comment_url": "https://facebook.com/130142022875527",
+            "commenter_id": "695081921",
+            "commenter_url": "https://facebook.com/maniara.love?fref=nf&rc=p&refid=52&__tn__=R",
+            "commenter_name": "Magaly Maniara",
+            "commenter_meta": null,
+            "comment_text": "Mi m\u00e1s sentido p\u00e9same a la se\u00f1ora Juana Cristina Chambilla Layme y Linda Rojas que el se\u00f1or lo tenga en su Gloria",
+            "comment_time": "2022-03-03 00:00:00",
+            "comment_image": null,
+            "comment_reactors": [],
+            "comment_reactions": null,
+            "comment_reaction_count": null,
+            "replies": []
+        }
+    ],
+    "reactors": [
+        {
+            "name": "Susan Lozada",
+            "link": "https://facebook.com/Susan-Lozada-111376884708119/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Jaime Luque",
+            "link": "https://facebook.com/Jaime-Luque-110478378132980/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Antonio Moya",
+            "link": "https://facebook.com/Antonio-Moya-110453878135608/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Violeta Rodriguez",
+            "link": "https://facebook.com/Violeta-Rodriguez-110028974844709/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Gianella Ventura",
+            "link": "https://facebook.com/Gianella-Ventura-109358884914146/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Rosa Hernandez",
+            "link": "https://facebook.com/Rosahernandeztc/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Ticaco Costumbres de mi Tierra",
+            "link": "https://facebook.com/Ticaco-Costumbres-de-mi-Tierra-108719444589737/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Edgar Laqui",
+            "link": "https://facebook.com/Edgar-Laqui-108660938316781/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Marcial Laura",
+            "link": "https://facebook.com/Marcial-Laura-107372345113734/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Mario Gonza",
+            "link": "https://facebook.com/Mario-Gonza-107034855147895/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Fernando Martinez",
+            "link": "https://facebook.com/Fernando-Martinez-106326658553812/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Brenda Martinez",
+            "link": "https://facebook.com/Brenda-Martinez-105901815263393/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Rocio Mendoza",
+            "link": "https://facebook.com/Rocio-Mendoza-105767361943046/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Lidia Bustamante",
+            "link": "https://facebook.com/Lidia-Bustamante-105377475316221/?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Luis Alonso",
+            "link": "https://facebook.com/Luis-Alonso-104924425361998/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Rebeca Martinez",
+            "link": "https://facebook.com/Rebeca-Martinez-104269908762289/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Adelma Qui\u00f1onez",
+            "link": "https://facebook.com/Adelma-Qui\u00f1onez-104058508783424/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Betzabeth Rojas",
+            "link": "https://facebook.com/Betzabeth-Rojas-103861892136917/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Ruben Gonzales",
+            "link": "https://facebook.com/Ruben-Gonzales-103727235484153/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Julieta Varillas",
+            "link": "https://facebook.com/Julieta-Varillas-102665912258553/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Elizabeth Herrera",
+            "link": "https://facebook.com/Elizabeth-Herrera-102551998937610/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Giovanna Calderon",
+            "link": "https://facebook.com/Giovanna-Calderon-101521039041624/?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Arturo Bernal Girao",
+            "link": "https://facebook.com/profile.php?id=100077429560443&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Cesar Cutipa Condori",
+            "link": "https://facebook.com/profile.php?id=100077198961899&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Leydi Laura",
+            "link": "https://facebook.com/profile.php?id=100075095096192&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Yovana Gutierrez",
+            "link": "https://facebook.com/profile.php?id=100075090716300&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Roberto Flores Gutierrez",
+            "link": "https://facebook.com/profile.php?id=100074221565877&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Pedro Cancino",
+            "link": "https://facebook.com/profile.php?id=100074119094163&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Raquel Vargas Alave",
+            "link": "https://facebook.com/profile.php?id=100073659841589&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "James Cipriano Ilaquita",
+            "link": "https://facebook.com/profile.php?id=100073614846801&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Maria Fernanda Villegas Ticona",
+            "link": "https://facebook.com/profile.php?id=100073610407193&fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Lucia Beatriz Mendoza Gutierrez",
+            "link": "https://facebook.com/profile.php?id=100073550376374&fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Gabriela Garcia Lopez",
+            "link": "https://facebook.com/profile.php?id=100073526076916&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Romina Caceres Huallpa",
+            "link": "https://facebook.com/profile.php?id=100073493437898&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Melissa Stephanny Rojas Carpio",
+            "link": "https://facebook.com/melissa.stephannyrj?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Thalia Vanessa Moya Goyzueta",
+            "link": "https://facebook.com/profile.php?id=100073411606513&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Carlos Chura Paco",
+            "link": "https://facebook.com/profile.php?id=100073304871012&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Jos\u00e9 Chipana",
+            "link": "https://facebook.com/jose.chipana22?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Josselyn Coa Tello",
+            "link": "https://facebook.com/profile.php?id=100073269861455&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Julissa Margot Jessica Briones...",
+            "link": "https://facebook.com/profile.php?id=100071321932256&fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Evelyn Luciana Miranda Castillo",
+            "link": "https://facebook.com/evelynluciana.mirandacastillo?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Liberto Flor Chipana",
+            "link": "https://facebook.com/liberto.chipana?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Abigail Eveline Chiprian Martinez",
+            "link": "https://facebook.com/profile.php?id=100053698072649&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Enrique Jos\u00e9 Chipana Teller\u00eda",
+            "link": "https://facebook.com/enjs10900184?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Juan Manuel Gonzales Velazques",
+            "link": "https://facebook.com/juanmanu.gove?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Carlos Ramos",
+            "link": "https://facebook.com/profile.php?id=100045997313819&fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Joaquin Limache Ilaquita",
+            "link": "https://facebook.com/joalima12345?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Jos\u00e9 Chavez Iparraguirre",
+            "link": "https://facebook.com/jose.chaveziparr.583?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Jover Chirinos Mayta",
+            "link": "https://facebook.com/jovchima8490?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Jean Carlos Vasquez Torres",
+            "link": "https://facebook.com/jako.henry.963?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Mila Camposs",
+            "link": "https://facebook.com/mila.camposs.5?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Josefino Florentino Chiman",
+            "link": "https://facebook.com/josmarquez12?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Esteban Marcos",
+            "link": "https://facebook.com/estebanmar123?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Mauricio Leonardo Alvarez Ramos",
+            "link": "https://facebook.com/maurileonard2?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Mauro Cevallos Ruiz",
+            "link": "https://facebook.com/mauricevar123?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Yerko Joseph Celda\u00f1o Miller",
+            "link": "https://facebook.com/yerko.celmiller7?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Enrike Achiy",
+            "link": "https://facebook.com/nrikech?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Renato Prada",
+            "link": "https://facebook.com/renato.prada.50?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Jacobo Limache Conde",
+            "link": "https://facebook.com/clementejacobo.limacheconde.5?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Alberto Castell\u00f3n",
+            "link": "https://facebook.com/betocastellomba?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Eufemia Chambilla Layme",
+            "link": "https://facebook.com/eufemia.chambilla?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Dominga Flores Ch",
+            "link": "https://facebook.com/dominga.floreschurata?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Luis Roger Solis Palacios",
+            "link": "https://facebook.com/luisroger.solispalacios.5?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Alicia Calisaya Ponce",
+            "link": "https://facebook.com/profile.php?id=100009143764929&fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Noah Ib",
+            "link": "https://facebook.com/profile.php?id=100007788374781&fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Sergio Quispe Alarcon",
+            "link": "https://facebook.com/sergio.quispealarcon.3?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Juanita Dieguez",
+            "link": "https://facebook.com/juanita.dieguez.3?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Hualter Calisaya",
+            "link": "https://facebook.com/hualter.calisaya.7?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Yecka Incacutipa",
+            "link": "https://facebook.com/cupido.conmigo?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Lourdes Romero Choque",
+            "link": "https://facebook.com/lourdes.romerochoque?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Veronica Morales Gonzales",
+            "link": "https://facebook.com/veritomoritase?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "AmaLia Turpo Chino",
+            "link": "https://facebook.com/amalia.tc.5?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Juan Luis Cabrera Segura",
+            "link": "https://facebook.com/juanluis.cabrerasegura?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Isabel Aguilar",
+            "link": "https://facebook.com/isabel.aguilar.1441?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Maria Turpo Cabana",
+            "link": "https://facebook.com/mariaturpocabana?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Sandra Vicente",
+            "link": "https://facebook.com/sandra.g.vicente?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Minis Ch LuCarme",
+            "link": "https://facebook.com/maruja.yu?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Lia Kathy",
+            "link": "https://facebook.com/lilyiana.almanzamachaca?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Susan Canelis",
+            "link": "https://facebook.com/jsjsjskndjs?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Josh H Chiman",
+            "link": "https://facebook.com/josefete23?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Arnold Corales",
+            "link": "https://facebook.com/arnold.corales?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Ana Maria Vasquez Quille",
+            "link": "https://facebook.com/anamaria.vasquezquille?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Daisy Huamolle Menendez",
+            "link": "https://facebook.com/daisy.huamollemenendez?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Ricardo Rivera C\u00e1ceda",
+            "link": "https://facebook.com/ricardo.riveracaceda?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Elvis Carlos Rosales Carnero",
+            "link": "https://facebook.com/charlsrosales11?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Mariatte Briggitte Vega",
+            "link": "https://facebook.com/mariatte88?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Catherine Cassiopeia",
+            "link": "https://facebook.com/catherinekimcassiopeia?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Cahuana Mijail",
+            "link": "https://facebook.com/mijail.cahuanacatacora?fref=pb",
+            "type": "sad"
+        },
+        {
+            "name": "Carmen Navarro",
+            "link": "https://facebook.com/carmen.navarro.315865?fref=pb",
+            "type": "like"
+        },
+        {
+            "name": "Magaly Maniara",
+            "link": "https://facebook.com/maniara.love?fref=pb",
+            "type": "sad"
+        }
+    ],
+    "w3_fb_url": "https://www.facebook.com/story.php?story_fbid=130078019548594&id=100076391892247",
+    "reactions": {
+        "like": 65,
+        "sad": 25
+    },
+    "reaction_count": 90,
+    "with": null,
+    "page_id": "1157867861008502",
+    "sharers": null,
+    "image_id": "130078006215262",
+    "image_ids": [
+        "130078006215262"
+    ],
+    "was_live": false,
+    "fetched_time": "2022-07-03 18:33:24.544521"
+}
