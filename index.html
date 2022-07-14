@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@latest/dist/Chart.min.js"></script>
     <title>CESAR HUARINO FB </title>
 </head>
 
@@ -14,6 +15,8 @@
         <h3>Actualizado al 11/07/2022</h3>
         <div class="section">
             <button class="btn" id="boton">POST HUARINO</button>
+            <button class="btn" id="botonlike">ESTADISTICA LIKE</button>
+            <button class="btn" id="botoncomentario">ESTADISTICA COMENTARIOS</button>
             <table class="striped">
                 <thead>
                     <tr>
@@ -30,11 +33,16 @@
                 </tbody>
             </table>
         </div>
+        <div class="section">
+            <div id="resgraf">
+                <canvas id="grafica"></canvas>
+            </div>
+            
+            
+        </div>
     </div>
 
-    <div>
-        <canvas id="myChart"></canvas>
-    </div>
+    <script src="script.js"></script>
     <script src="ajax.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </body>
