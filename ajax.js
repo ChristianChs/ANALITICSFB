@@ -374,8 +374,4 @@ function addGraficoMes1(mes,reactiontotal,posteo){
             },
         }
     });
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ca8ec8d802dd4fd37cc07e5d81a920255edf4c11
