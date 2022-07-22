@@ -2,11 +2,10 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-.facebook.com	TRUE	/	TRUE	1720718695	sb	Kaa4YlnTeR49IAR4m57IXDRy
-.facebook.com	TRUE	/	TRUE	1719340496	datr	Kaa4YhiCb3wSwpHzJW8cponu
-.facebook.com	TRUE	/	TRUE	1658251462	locale	es_LA
-.facebook.com	TRUE	/	TRUE	1658251482	wd	1600x789
-.facebook.com	TRUE	/	TRUE	1689182693	c_user	100035362086268
-.facebook.com	TRUE	/	TRUE	1689182693	xs	2%3AbjHmPscMdaN1QQ%3A2%3A1657646692%3A-1%3A1481
-.facebook.com	TRUE	/	TRUE	1665423225	fr	0SSXqDcDB3CyRR77K.AWWBX9KeXjl6KMSJcd5KIPNrln8.Biza4y.s9.AAA.0.0.BizbB5.AWULPMI0FsA
-.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1657647239319%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	TRUE	1721433961	sb	ZHCCYkQN5Csj4Pj92byaDeyp
+.facebook.com	TRUE	/	TRUE	1715787624	datr	ZnCCYtBnA8fgCuwNUKrST70u
+.facebook.com	TRUE	/	TRUE	1658966756	wd	1276x458
+.facebook.com	TRUE	/	TRUE	1689897958	c_user	100083632993805
+.facebook.com	TRUE	/	TRUE	1689897958	xs	26%3APwvF2-aJLFqnJQ%3A2%3A1658361958%3A-1%3A-1
+.facebook.com	TRUE	/	TRUE	1666137961	fr	0uWEwqJZqAIeJvNLh.AWV0Iegir13wTXKYh43Tve3it90.BixSSr.EU.AAA.0.0.Bi2Jho.AWWz_Hxu0c8
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1658361970287%2C%22v%22%3A1%7D
