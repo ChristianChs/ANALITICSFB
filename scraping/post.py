@@ -3,11 +3,13 @@ import pandas as pd
 import os
 import matplotlib.pyplot as plt
 import json
+import time
 
 #EXTRAE TODA LA INFORMACION DE UNA SOLA PUBLICACION Y LO ALMACENA EN UN JSON
 #NUEVO CODIGO LIMPIO MEJORADO VERIFICA SI HAY NUEVOS COMENTARIOS // "comments": True QUITAR PARA NO OBTNER COMENTARIOS
-post_id = "158068933462441"
-filename = post_id + ".json"
+post_id = "https://www.facebook.com/268928187075293/posts/1086843911950379/?flite=scwspnss"
+postname = "encuesta"
+filename = postname + ".json"
 if os.path.isfile(filename):
     with open(filename, "r") as f:
         prev_post = json.load(f)
@@ -33,13 +35,14 @@ else:
 
 post = next(get_posts(
     post_urls=[post_id],
-    cookies="facebook.txt",
+    cookies="./scraping/facebook.txt",
     options={
         "allow_extra_requests": False,
         "reactions": True,
         "comment_reactors": False,
     },
 ))
+time.sleep(5)
 print(
     f'Live version of post has {post["comments"]} comments and {post["reaction_count"]} reactions'
 )
@@ -47,15 +50,15 @@ if post["comments"] > prev_post.get("comments", 0) or post["reaction_count"] > p
     print("Post has new data, refetching")
     post = next(get_posts(
         post_urls=[post_id],
-        cookies="facebook.txt",
+        cookies="./scraping/facebook.txt",
         options={
             "allow_extra_requests": False,
-            "comments": True,
+            "comments": False,
             "reactors": True,
             "reactions": True,
             "comment_reactors": False,
         },
     ))
-    
-    with open(post_id + "_new.json", "w") as f:
+    time.sleep(5)
+    with open("encuesta.json", "w") as f:
         json.dump(post, f, default=str, indent=4)

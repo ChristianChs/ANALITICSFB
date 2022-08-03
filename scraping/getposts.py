@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 import time
 import json
 posts = []
-post_id="HUARINO"
+post_id="Huarino_22-07-22"
 data= get_posts(
-    'Cesarhuarino2022',
+    'CesarHuarinoAlcalde2022',
     cookies="./scraping/facebook.txt",
     options={
         "allow_extra_requests": False,
@@ -25,7 +25,7 @@ for post in data:
     # print(post['likes'])
     # print(post)
      posts.append(post)
-     time.sleep(2)
+     time.sleep(5)
 
 with open(post_id + "_posts.json", "w") as f:
     json.dump(posts, f, default=str, indent=4)

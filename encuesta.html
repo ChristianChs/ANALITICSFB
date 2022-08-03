@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@latest/dist/Chart.min.js"></script>
+    <title>ENCUESTAS-HUARINO</title>
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            
+            <table class="striped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>FECHA POST</th>
+                        <th>FUENTE</th>
+                        <th>DESCRIPCION</th>
+                        <th>VER</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>2022-07-14</td>
+                        <td>BIDDATA CONSULTORES</td>
+                        <td>SONDEO VIRTUAL MES JULIO</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>"2022-07-06"</td>
+                        <td>"REDACCION NOTICIAS"</td>
+                        <td>"TU DECIDES QUIEN SE PERFILA COMO PROXIMO ALCALDE DISTRITAL"</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>"2022-06-26"</td>
+                        <td>"CIUDAD NUEVA TACNA"</td>
+                        <td>"ENCUESTA FAVORITOS PARA CIUDAD NUEVA"</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>"2022-06-04"</td>
+                        <td>"ASTROS ASESORES Y CONSULTORES"</td>
+                        <td>"SONDE DISTRITO DE CIUDAD NUEVA"</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>"2022-05-26"</td>
+                        <td>"CIUDAD NUEVA TACNA"</td>
+                        <td>"ENCUESTA DEL DIA - CIUDAD NUEVA"</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>"2022-05-25"</td>
+                        <td>"TACNA NOTICIAS"</td>
+                        <td>"ENCUESTA VIRTUAL TACNA 2022"</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>"2022-04-21"</td>
+                        <td>"TACNA ENCUESTA 2022"</td>
+                        <td>"SONDEO DE INTENCION DE VOTO DISTRITAL"</td>
+                        <td><button class="waves-effect waves-light btn" onclick="location.href='${item.post_url}';" >Datos</button></td>
+                    </tr>
+                </thead>
+                <tbody id="res">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
