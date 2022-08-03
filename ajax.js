@@ -34,7 +34,7 @@ function traerDatos() {
 
 function llenarGrafico() {
     const xhttp = new XMLHttpRequest();
-    xhttp.open('GET', 'HUARINO_posts.json', true);
+    xhttp.open('GET', 'Huarino_22-07-22_posts.json', true);
     xhttp.send();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
